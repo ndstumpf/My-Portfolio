@@ -26,7 +26,7 @@ function About() {
       </div>
       <div>
         <img
-          src="https://raw.githubusercontent.com/ndstumpf/My-Portfolio/main/img/eu.jpeg"
+          src="https://github.com/ndstumpf/My-Portfolio/tree/master/img/eu.jpeg"
           alt="Nicolas Stumpf"
           className="w-full md:w-6/12 rounded-lg object-cover"
         />
