@@ -27,7 +27,7 @@ function About() {
       <div>
         <img
           src={
-            "https://raw.githubusercontent.com/ndstumpf/My-Portfolio/master/img/eu.jpeg"
+            "https://github.com/ndstumpf/My-Portfolio/blob/master/dist/img/eu.jpeg?raw=true"
           }
           className="w-full md:w-6/12 rounded-lg object-cover"
         />
