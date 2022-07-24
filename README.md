@@ -1,3 +1,3 @@
 # React-Portfolio
 
-https://melodic-douhua-290bff.netlify.app
+https://comfy-sopapillas-786678.netlify.app/
